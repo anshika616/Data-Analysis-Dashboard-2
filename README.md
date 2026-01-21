@@ -1,4 +1,4 @@
-# Amazon Sales Data Analysis (Interactive dashboard using powerbi)
+# Amazon Sales Data Analysis (Interactive dashboard using PowerBi)
 
 ## Project Objective
 
