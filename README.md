@@ -20,3 +20,18 @@ while identifying top-performing cities and states to support data-driven busine
 -Which regions and products are top performers and which need improvement?
 
 - Dashboard Interaction <a href="https://github.com/anshika616/Data-Analysis-Dashboard-2/blob/main/Screenshot%202025-03-01%20062332.png">View Dashboard</a>
+
+## Process
+
+1- Data Collection: Imported Amazon sales data from multiple sources (Excel/CSV) into Power BI.
+2- Data Cleaning & Transformation: Used Power Query to clean data by removing duplicates, handling null values, correcting data types, and standardizing city, state, and category names.
+3- Data Modeling: Created relationships between sales, product, and category tables to enable accurate analysis and filtering.
+4- DAX Calculations: Built measures such as Total Sales, Filtered Sales, and Units Sold using DAX to answer key business questions.
+5- Visual Creation: Designed KPI cards, bar charts, and slicers to analyze sales by city, state, category, product, and order status.
+6- Interactivity: Added slicers, buttons, and page navigation to allow dynamic filtering and drill-down analysis.
+7- Insights & Validation: Tested filters and visuals to ensure queries were answered correctly and insights were clear.
+
+
+## Dashboard Image
+<img width="1366" height="678" alt="Screenshot 2025-03-01 062332" src="https://github.com/user-attachments/assets/d245a4b9-7de9-472b-9a11-0d5cf9b44b1e" />
+
