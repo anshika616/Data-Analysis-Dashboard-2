@@ -35,3 +35,14 @@ while identifying top-performing cities and states to support data-driven busine
 ## Dashboard Image
 <img width="1366" height="678" alt="Screenshot 2025-03-01 062332" src="https://github.com/user-attachments/assets/d245a4b9-7de9-472b-9a11-0d5cf9b44b1e" />
 
+## Projects Insights
+
+-The dashboard reveals clear variation in sales performance across different cities and states, helping identify top-revenue regions.
+-A small number of cities and states contribute a large share of total sales, indicating high-potential markets.
+-Order status analysis highlights the impact of cancellations and returns on overall sales performance.
+-Category and product filters show which products drive maximum sales and which need strategic improvement.
+
+## Final Conclusions 
+
+This Power BI dashboard successfully converts Amazon sales data into actionable insights by providing a clear view of sales trends, regional performance, and order status. It supports data-driven decision-making by helping stakeholders focus on high-performing products and regions while addressing areas that negatively impact sales and growth.
+
